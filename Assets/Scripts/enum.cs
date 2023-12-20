@@ -1,0 +1,1 @@
+public enum TypePiste { musiqueBase=0, musiqueBaseBasse=1, musiqueEvenSalle=2, musiqueEvenBoutique=3 } // Type de piste de musique

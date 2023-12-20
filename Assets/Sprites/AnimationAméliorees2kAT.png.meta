@@ -1,0 +1,941 @@
+fileFormatVersion: 2
+guid: 57b52273c4b10324eb276dcd44e6219c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 140
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence Perso 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 916
+        width: 219
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ace785c6bf60c8f0800000000000000
+      internalID: -522294725986227035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10001
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 915
+        width: 221
+        height: 281
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0ebef7632539860800000000000000
+      internalID: 7535456995548848315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10002
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 914
+        width: 225
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3fe4a981b620270800000000000000
+      internalID: 8215246423689458624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10003
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 918
+        width: 227
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c28f63ca76460d90800000000000000
+      internalID: -7131935466815782207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10004
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 919
+        width: 231
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794dd8c6e5e4349e0800000000000000
+      internalID: -1638379671977601897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10005
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 920
+        width: 234
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639fcb91c9aa46840800000000000000
+      internalID: 5216481855825312054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10006
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 922
+        width: 236
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f99a71366ae3f70800000000000000
+      internalID: 9168948835901873977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10007
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 924
+        width: 240
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eb4eed04ca2cdb0800000000000000
+      internalID: -4773063260441887098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10008
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 641
+        width: 242
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648dda2a0e26e4760800000000000000
+      internalID: 7443995951031507014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10009
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 642
+        width: 244
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd51d230cee87ad30800000000000000
+      internalID: 4442676701740996063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10010
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 636
+        width: 234
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8994ae7927d12d0c0800000000000000
+      internalID: -4552543895305959016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10011
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 631
+        width: 220
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dacaeb8a51a5b30800000000000000
+      internalID: 4276754610639383952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10012
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 627
+        width: 207
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f41bb514d6a70210800000000000000
+      internalID: 1299190447347537137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10013
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 624
+        width: 201
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbabb8ab8bc690a90800000000000000
+      internalID: -7347221776418751811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10014
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 623
+        width: 194
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94f3ebf73826bc90800000000000000
+      internalID: -7154486737117121382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10015
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 624
+        width: 186
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181c99e80300f1760800000000000000
+      internalID: 7430658118735479169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10016
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 627
+        width: 177
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd8b843e548f7950800000000000000
+      internalID: 6449018731561192951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10017
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 338
+        width: 168
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e375298dec9405330800000000000000
+      internalID: 3697536446816737086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10018
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 344
+        width: 159
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c085383ed4a504460800000000000000
+      internalID: 7223873092878293004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10019
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 351
+        width: 159
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b378f8bae5ec560800000000000000
+      internalID: 7335904933973539707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10020
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 353
+        width: 157
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4ceaf26ca3d41b0800000000000000
+      internalID: -5670811732911668001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10021
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 356
+        width: 154
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beed424aca8e347a0800000000000000
+      internalID: -6394011217750073621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10022
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 349
+        width: 152
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4eb29093597cd90800000000000000
+      internalID: -7077524217189899088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10023
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 341
+        width: 152
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666b7128321d443f0800000000000000
+      internalID: -917378473640085914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10024
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 335
+        width: 152
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfd89f9d0e4123e0800000000000000
+      internalID: -2080295732449321028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10025
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 330
+        width: 152
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30c7ae85a0416850800000000000000
+      internalID: 6368442427885731899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10026
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 328
+        width: 154
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87367ccb032a4f020800000000000000
+      internalID: 2374701233740407672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10027
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 327
+        width: 164
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81379658d648c0260800000000000000
+      internalID: 7065167521362047768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10028
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 328
+        width: 176
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8703a3fdab9d91980800000000000000
+      internalID: -8567577419463380872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10029
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 35
+        width: 187
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f6e44d56ab84a20800000000000000
+      internalID: 3046890094432513825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10030
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 37
+        width: 173
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf7e064ed71343c0800000000000000
+      internalID: -4376628169448456251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10031
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 44
+        width: 182
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec29942a167f9730800000000000000
+      internalID: 4008052048038276321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10032
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 39
+        width: 186
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d955e856945a8f30800000000000000
+      internalID: 4578564975888783829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10033
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 35
+        width: 190
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292a3baed29c0c350800000000000000
+      internalID: 6035044699724817042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10034
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 37
+        width: 206
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a88ef307b939570800000000000000
+      internalID: 8472286230424881681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Perso 10035
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 40
+        width: 218
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf68fb7e4c06cea0800000000000000
+      internalID: -5852977134494519370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence Perso 10000: -522294725986227035
+      Occurrence Perso 10002: 8215246423689458624
+      Occurrence Perso 10032: 4578564975888783829
+      Occurrence Perso 10026: 2374701233740407672
+      Occurrence Perso 10013: -7347221776418751811
+      Occurrence Perso 10007: -4773063260441887098
+      Occurrence Perso 10021: -6394011217750073621
+      Occurrence Perso 10010: -4552543895305959016
+      Occurrence Perso 10033: 6035044699724817042
+      Occurrence Perso 10022: -7077524217189899088
+      "AnimationAm\xE9liorees2kAT_0": 434899394
+      Occurrence Perso 10011: 4276754610639383952
+      Occurrence Perso 10031: 4008052048038276321
+      Occurrence Perso 10018: 7223873092878293004
+      Occurrence Perso 10001: 7535456995548848315
+      Occurrence Perso 10014: -7154486737117121382
+      Occurrence Perso 10024: -2080295732449321028
+      Occurrence Perso 10023: -917378473640085914
+      Occurrence Perso 10029: 3046890094432513825
+      Occurrence Perso 10016: 6449018731561192951
+      Occurrence Perso 10035: -5852977134494519370
+      Occurrence Perso 10004: -1638379671977601897
+      Occurrence Perso 10017: 3697536446816737086
+      Occurrence Perso 10030: -4376628169448456251
+      Occurrence Perso 10028: -8567577419463380872
+      Occurrence Perso 10005: 5216481855825312054
+      Occurrence Perso 10006: 9168948835901873977
+      Occurrence Perso 10015: 7430658118735479169
+      Occurrence Perso 10009: 4442676701740996063
+      Occurrence Perso 10019: 7335904933973539707
+      Occurrence Perso 10020: -5670811732911668001
+      Occurrence Perso 10012: 1299190447347537137
+      Occurrence Perso 10008: 7443995951031507014
+      Occurrence Perso 10003: -7131935466815782207
+      Occurrence Perso 10027: 7065167521362047768
+      Occurrence Perso 10034: 8472286230424881681
+      Occurrence Perso 10025: 6368442427885731899
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

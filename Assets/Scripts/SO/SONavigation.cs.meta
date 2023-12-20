@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 442a89afe5444cc4aa55181798017aed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _donneesPerso: {fileID: 11400000, guid: 5147b0dd93bcf4f47ae459632a9e98e2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

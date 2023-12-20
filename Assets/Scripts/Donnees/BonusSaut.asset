@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8580090985965a5418941533ea61ff0d, type: 3}
+  m_Name: BonusSaut
+  m_EditorClassIdentifier: 
+  _nom: Saut
+  _estActifIni: 0
+  _tempsBeneficeActifMaxIni: 7
+  _tempsBeneficeActifRestantIni: 0
+  _estActif: 0
+  _tempsBeneficeActifMax: 7
+  _tempsBeneficeActifRestant: 0
+  _modificateurBonus: 1.15
+  _modificateurCouleurParticule: {r: 0.36320752, g: 0.47609487, b: 1, a: 0}
+  _modificateurGrosseurParticule: 3.41

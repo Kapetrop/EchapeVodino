@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Altas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 347251362, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+    - {fileID: 841394970, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+    - {fileID: -68431996, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+    - {fileID: 149946898, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+    - {fileID: 424657973, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+    - {fileID: -314268517, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+    - {fileID: 1770359642, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+    - {fileID: -1083474503, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+    - {fileID: -530419767, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+    - {fileID: -425954690, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+    - {fileID: 1668465032, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+    - {fileID: 2800000, guid: ec51eb1d01290dd499ac9a4d0ab55cac, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 7187c1e40e6d32a4e9516736fa58c2d6: 1668465032
+    - 7187c1e40e6d32a4e9516736fa58c2d6: -1083474503
+    - 7187c1e40e6d32a4e9516736fa58c2d6: 1770359642
+    - 7187c1e40e6d32a4e9516736fa58c2d6: -314268517
+    - 7187c1e40e6d32a4e9516736fa58c2d6: 424657973
+    - 7187c1e40e6d32a4e9516736fa58c2d6: 149946898
+    - 7187c1e40e6d32a4e9516736fa58c2d6: -68431996
+    - 7187c1e40e6d32a4e9516736fa58c2d6: 841394970
+    - 7187c1e40e6d32a4e9516736fa58c2d6: 347251362
+    - 7187c1e40e6d32a4e9516736fa58c2d6: -425954690
+    - 7187c1e40e6d32a4e9516736fa58c2d6: -530419767
+    - ec51eb1d01290dd499ac9a4d0ab55cac: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1668465032, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+  - {fileID: -1083474503, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+  - {fileID: 1770359642, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+  - {fileID: -314268517, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+  - {fileID: 424657973, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+  - {fileID: 149946898, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+  - {fileID: -68431996, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+  - {fileID: 841394970, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+  - {fileID: 347251362, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+  - {fileID: -425954690, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+  - {fileID: -530419767, guid: 7187c1e40e6d32a4e9516736fa58c2d6, type: 3}
+  - {fileID: 21300000, guid: ec51eb1d01290dd499ac9a4d0ab55cac, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tiles_template_128x128_2023_10
+  - tiles_template_128x128_2023_7
+  - tiles_template_128x128_2023_6
+  - tiles_template_128x128_2023_5
+  - tiles_template_128x128_2023_4
+  - tiles_template_128x128_2023_3
+  - tiles_template_128x128_2023_2
+  - tiles_template_128x128_2023_1
+  - tiles_template_128x128_2023_0
+  - tiles_template_128x128_2023_9
+  - tiles_template_128x128_2023_8
+  - poison(EFFECTOR)
+  m_RenderDataMap: {}
+  m_Tag: Altas
+  m_IsVariant: 0
